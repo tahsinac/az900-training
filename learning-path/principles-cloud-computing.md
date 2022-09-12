@@ -10,7 +10,8 @@ In this module, you will:
 - Decide which cloud deployment model is best for you
 
 ## [What is cloud computing?](https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing/2-what-is-cloud-computing)
-Cloud computing is the delivery of computing services over the internet
+Cloud computing is the delivery of computing services over the internet.
+
 The cloud provider is responsible for the physical hardware required to execute your work, and for keeping it up-to-date. The computing services offered tend to vary by cloud provider. However, typically they include:
 
 - **Compute power** - such as Linux servers or web applications
